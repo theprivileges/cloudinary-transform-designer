@@ -24,7 +24,7 @@
 
 .button-primary {
 
-  background-color: $color-purple7;
+  background-color: $color-gray7;
 
   &,
   a,
@@ -33,16 +33,16 @@
   }
 
   &:hover {
-    background-color: $color-purple6;
+    background-color: $color-gray6;
   }
 
   &:active {
-    background-color: $color-purple8;
+    background-color: $color-gray8;
   }
 
   &:focus {
-    background-color: $color-purple8;
-    box-shadow: 0 0 8px rgba($color-purple4, .8);
+    background-color: $color-gray8;
+    box-shadow: 0 0 8px rgba($color-gray4, .8);
   }
 
 }

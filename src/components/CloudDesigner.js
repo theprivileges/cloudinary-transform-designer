@@ -28,15 +28,15 @@ const DEFAULT_IMAGE_OPTIONS = {
 const DEFAULT_TEXT_OPTION = {
   text: 'Your text here!',
   format: {
-    font: 'Source Sans Pro',
+    font: 'Roboto',
     size: 70,
     lineSpacing: -10,
-    weight: 'semibold'
+    weight: 'regular'
   },
   options: {
     w: 860,
     c: 'fit',
-    co: 'rgb:5E35B1',
+    co: 'rgb:FFFFFF',
     g: 'west',
     x: 80,
     y: -60,
