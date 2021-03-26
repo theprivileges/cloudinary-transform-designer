@@ -12,7 +12,7 @@ const Header = () => {
         </p>
         <ul className="header-links">
           <li>
-            <a href="https://github.com/colbyfayock/cloudinary-transform-designer">
+            <a href="https://github.com/theprivileges/cloudinary-transform-designer">
               <FaGithub /> <span className="sr-only">Github</span>
             </a>
           </li>
