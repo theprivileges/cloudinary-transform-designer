@@ -3,7 +3,7 @@ A tool to easily design your Cloudinary transforms to determine your configurati
 
 ## ⚡ Quick Start with Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/tweet)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/theprivileges/cloudinary-transform-designer)
 
 ## 🚀 Getting Started
 
